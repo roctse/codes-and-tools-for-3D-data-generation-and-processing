@@ -1,9 +1,10 @@
 # codes-and-tools-for-3D-data-generation-and-processing
 
-###### This is an incomplete list of source codes and tools for 3D data generation and processing, please email **Yulan Guo** to add or update the list
+###### This is an incomplete list of source codes and tools for 3D data generation and processing, please email [roctse](xtp.whu@gmail.com) to add or update the list
 
 参考资料：
 [郭玉兰](http://yulanguo.me/codes.html)
+
 ### 3D Data View and Processing
 
 ##### PCL
